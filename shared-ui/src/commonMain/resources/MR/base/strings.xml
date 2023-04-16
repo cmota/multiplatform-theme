@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MultiplatformTheme</string>
+
+    <!-- Navigation -->
+    <string name="navigation_back">Back</string>
+    <string name="navigation_schedule">Schedule</string>
+    <string name="navigation_speakers">Speakers</string>
+
+    <!-- Placeholder -->
+    <string name="placeholder_title">Kotlin/Multiplatform for iOS developers : state &amp; future.</string>
+    <string name="placeholder_text">Kotlin/Multiplatform is very often seen by iOS developers as an additional pain point, rather than a productivity tool. Let\'s go beyond the front line and try to understand this point of view. What can we do to ease their journey to using KMP, and facilitate their integration to our Kotlin/Multiplatform project? We will explore the entire pipeline of integrating a KMP core into an iOS project: tooling, coding, building, deploying, integrating, and using. We will discuss the current limitations that KMP imposes on each step, and try to understand their consequences on the quality of life of an iOS developer. Finally, we will show some tools and practices to alleviate these constraints &amp; create a shared narrative with all platform developers, as well as discuss what\'s in the future of KMP for iOS.</string>
+    <string name="placeholder_hello">Hello Speakers!</string>
+
+    <string name="placeholder_speaker_avatar">https://avatars.githubusercontent.com/u/249857</string>
+    <string name="placeholder_speaker_title">CTO and Founder at Kodein Koders</string>
+    <string name="placeholder_speaker_description">Salomon is the creator and maintainer of the KODEIN multiplatform open source initiative as well as the founder of KODEIN Koders. Deeply rooted in the Open-Source philosophy, he is dedicated to making tools and libraries to make programming easier, safer, and more exciting. He is a Kotlin GDE, Kotlin certified trainer, Kotlin meetup Paris co-organiser, and conference speaker (you guessed it… about Kotlin!). He also loves dancing Rock, playing boardgames, and flying small planes.</string>
+    
+    <!-- Content description -->
+    <string name="description_back">Close current screen</string>
+    <string name="description_speaker_image">Speaker image</string>
+</resources>
